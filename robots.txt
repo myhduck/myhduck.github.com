@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://myhduck.github.com/sitemap.xml
