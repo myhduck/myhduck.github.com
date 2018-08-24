@@ -1,5 +1,5 @@
 **myhduck**'s Octopress Blog
 
-[http://myhduck.github.com/][link]
+[https://myhduck.github.io/][link]
 
-[link]: http://myhduck.github.com/ "myhduck's Octopress Blog"
+[link]: https://myhduck.github.io/ "myhduck's Octopress Blog"
